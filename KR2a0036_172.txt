@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 172
+#+DATE: 2015-08-24 22:22:32.188956
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百七十二
 <pb:KR2a0036_WYG_172-1a>¶
 欽定四庫全書¶
 　元史卷一百七十二¶
@@ -416,6 +418,7 @@
 　¶
 　¶
 　元史卷一百七十二¶
+#+PROPERTY: JUAN 卷一百七十二考證
 <pb:KR2a0036_WYG_172-24a>¶
 元史卷一百七十二考證¶
 程鉅夫𫝊至元十九年奏陳五事　按十九年原刻作¶
@@ -429,4 +432,3 @@
 　三年係𫝊之誤今據黄溍碑改¶
 齊履謙𫝊七年八月戊申夜地大震　按五行志作辛¶
 　卯與此異¶
-

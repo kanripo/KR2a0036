@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 205
+#+DATE: 2015-08-24 22:22:33.086122
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二百五
 <pb:KR2a0036_WYG_205-1a>¶
 欽定四庫全書¶
 　元史卷二百五¶
@@ -776,6 +778,7 @@
 　¶
 　¶
 　元史卷二百五¶
+#+PROPERTY: JUAN 卷二百五考證
 <pb:KR2a0036_WYG_205-44a>¶
 元史卷二百五考證¶
 阿哈瑪特𫝊至元元年秋八月罷領中書左右部併入¶
@@ -783,4 +786,3 @@
 哈瑪爾𫝊至正十五年四月舒蘇由知樞宻院拜御史¶
 　大夫五月哈瑪爾遂拜中書左丞相　按順帝紀哈¶
 　瑪爾與舒蘇同日拜職在四月癸酉¶
-

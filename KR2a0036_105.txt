@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 105
+#+DATE: 2015-08-24 22:22:30.463355
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百五
 <pb:KR2a0036_WYG_105-1a>¶
 欽定四庫全書¶
 　元史卷一百五¶
@@ -632,10 +634,10 @@
 　¶
 　¶
 　元史巻一百五¶
+#+PROPERTY: JUAN 卷一百五考證
 <pb:KR2a0036_WYG_105-36a>¶
 元史巻一百五考證¶
 刑法志四諸子冒亡父官居職任事者杖七十七　按¶
 　原刻脱亡字今據至正條格増¶
 刑法志四一品至三品許用間金粧飾銀螭頭繡帶青¶
 　幔　按三品原刻訛二品今據永樂大典改¶
-

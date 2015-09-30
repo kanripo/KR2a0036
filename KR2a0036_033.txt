@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 33
+#+DATE: 2015-08-24 22:22:28.710281
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十三
 <pb:KR2a0036_WYG_033-1a>¶
 欽定四庫全書¶
 　元史巻三十三¶
@@ -542,9 +544,9 @@
 　¶
 　¶
 　元史巻三十三¶
+#+PROPERTY: JUAN 卷三十三考證
 <pb:KR2a0036_WYG_033-31a>¶
 元史巻三十三考證¶
 武寧王齊齊克圖　按齊齊克圖于延祐七年封寧王¶
 　王表有進封寧王之文而無武字與紀小異¶
 海南營繕提㸃所　按百官志作規運提㸃所與此異¶
-

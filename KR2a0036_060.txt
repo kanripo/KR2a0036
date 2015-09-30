@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 60
+#+DATE: 2015-08-24 22:22:29.309275
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十
 <pb:KR2a0036_WYG_060-1a>¶
 欽定四庫全書¶
 　元史巻六十¶
@@ -596,6 +598,7 @@
 　¶
 　¶
 　元史巻六十¶
+#+PROPERTY: JUAN 卷六十考證
 <pb:KR2a0036_WYG_060-34a>¶
 元史巻六十考證¶
 耀州唐初宜州後為華原縣後又為耀州　按舊唐志¶
@@ -636,4 +639,3 @@
 　也志作後改富順縣誤¶
 鳴沙州隋置環州立鳴沙縣　按志例皆斷自唐始此¶
 　獨引隋書與前後體例不合¶
-

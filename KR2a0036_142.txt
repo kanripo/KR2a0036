@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 142
+#+DATE: 2015-08-24 22:22:31.341242
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百四十二
 <pb:KR2a0036_WYG_142-1a>¶
 欽定四庫全書¶
 　元史卷一百四十二¶
@@ -326,6 +328,7 @@
 　¶
 　¶
 　元史卷一百四十二¶
+#+PROPERTY: JUAN 卷一百四十二考證
 <pb:KR2a0036_WYG_142-19a>¶
 元史卷一百四十二考證¶
 達實巴圖爾傳　招募襄陽官吏及土豪避兵者得義¶
@@ -338,4 +341,3 @@
 <pb:KR2a0036_WYG_142-19b>¶
 　鑑綱目改¶
 納琳傳盡復上元江寧境　按江字舊訛注今改¶
-

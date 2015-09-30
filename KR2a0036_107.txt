@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 107
+#+DATE: 2015-08-24 22:22:30.512067
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百七
 <pb:KR2a0036_WYG_107-1a>¶
 欽定四庫全書¶
 　元史巻一百七¶
@@ -187,6 +189,7 @@
 　¶
 　¶
 　元史巻一百七¶
+#+PROPERTY: JUAN 卷一百七考證
 <pb:KR2a0036_WYG_107-19a>¶
 元史巻一百七考證¶
 拜星呼爾二子　按二子原刻訛一子今據輟耕録改¶
@@ -210,4 +213,3 @@
 　及諸王表刪¶
 淮王特穆爾布哈　按淮王原刻作宣讓王考特穆爾¶
 　布哈傳至正二十年進封淮王今據體例畫一改¶
-

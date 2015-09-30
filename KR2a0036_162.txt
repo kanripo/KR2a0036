@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 162
+#+DATE: 2015-08-24 22:22:31.913852
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百六十二
 <pb:KR2a0036_WYG_162-1a>¶
 欽定四庫全書¶
 　元史卷一百六十二¶
@@ -524,6 +526,7 @@
 　¶
 　¶
 　元史卷一百六十二¶
+#+PROPERTY: JUAN 卷一百六十二考證
 <pb:KR2a0036_WYG_162-30a>¶
 元史卷一百六十二考證¶
 呼喇濟𫝊内治外修戰勝攻取選用良將隨機應變則¶
@@ -537,4 +540,3 @@
 　逼乘輿世祖親麾諸軍圍之納延堅壁不出今据改¶
 劉國傑𫝊在辰者曰寨兵　按原刻無曰字今照上文¶
 　增¶
-

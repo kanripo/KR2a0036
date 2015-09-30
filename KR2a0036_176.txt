@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 176
+#+DATE: 2015-08-24 22:22:32.285982
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百七十六
 <pb:KR2a0036_WYG_176-1a>¶
 欽定四庫全書¶
 　元史卷一百七十六¶
@@ -452,6 +454,7 @@
 　¶
 　¶
 　元史卷一百七十六¶
+#+PROPERTY: JUAN 卷一百七十六考證
 <pb:KR2a0036_WYG_176-26a>¶
 元史卷一百七十六考證¶
 王倚𫝊子二人鵬異様局總管府總管　按原刻無局¶
@@ -467,4 +470,3 @@
 　為左丞相二年十月改御史大夫至十一月仍為左¶
 　丞相核之續通鑑亦同𫝊所作右大夫當即御史大¶
 　夫之訛今據改¶
-

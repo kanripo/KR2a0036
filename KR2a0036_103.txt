@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 103
+#+DATE: 2015-08-24 22:22:30.407596
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百三
 <pb:KR2a0036_WYG_103-1a>¶
 欽定四庫全書¶
 　元史卷一百三¶
@@ -524,6 +526,7 @@
 　¶
 　¶
 　元史卷一百三¶
+#+PROPERTY: JUAN 卷一百三考證
 <pb:KR2a0036_WYG_103-30a>¶
 元史卷一百三考證¶
 刑法志二從亷訪考閲之　按考原刻訛者今據永樂¶
@@ -542,4 +545,3 @@
 　原刻脱宿字今據文義増¶
 刑法志二餘者初犯戒諭再犯三犯酌量責罰　按諭¶
 　原刻訛論酌原刻訛約今據文義改¶
-

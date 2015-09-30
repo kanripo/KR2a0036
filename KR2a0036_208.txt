@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 208
+#+DATE: 2015-08-24 22:22:33.174031
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二百八
 <pb:KR2a0036_WYG_208-1a>¶
 欽定四庫全書¶
 　元史卷二百八¶
@@ -542,6 +544,7 @@
 　¶
 　¶
 　元史巻二百八¶
+#+PROPERTY: JUAN 卷二百八考證
 <pb:KR2a0036_WYG_208-31a>¶
 元史巻二百八考證¶
 髙麗國𫝊計議官伯徳孝先　計議原本作司儀今據¶
@@ -550,4 +553,3 @@
 　羅𫝊又作脱脫兒並一人今畫一改¶
 王謜更名章　按姚燧及王搆集封贈髙麗王祖考制¶
 　皆作王璋¶
-

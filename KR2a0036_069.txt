@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 69
+#+DATE: 2015-08-24 22:22:29.515999
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十九
 <pb:KR2a0036_WYG_069-1a>¶
 欽定四庫全書¶
 　元史卷六十九¶
@@ -614,6 +616,7 @@
 　¶
 　¶
 　元史卷六十九¶
+#+PROPERTY: JUAN 卷六十九考證
 <pb:KR2a0036_WYG_069-35a>¶
 元史卷六十九考證¶
 郊祀樂章降神奏乾寧之曲　按太常集禮云國初樂¶
@@ -683,4 +686,3 @@
 　亞獻樂章與此逈異又有分獻十哲樂章史未之載¶
 宣聖樂章送神奏慶明之曲佑我皇家億載萬年　按¶
 　佑我以下舊本闕六字據元文類補¶
-

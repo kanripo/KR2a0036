@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 21
+#+DATE: 2015-08-24 22:22:28.457851
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十一
 <pb:KR2a0036_WYG_021-1a>¶
 欽定四庫全書¶
 　元史卷二十一¶
@@ -632,6 +634,7 @@
 　¶
 　¶
 　元史卷二十一¶
+#+PROPERTY: JUAN 卷二十一考證
 <pb:KR2a0036_WYG_021-36a>¶
 元史卷二十一考證¶
 成宗本紀大徳七年冬十月以故知府容苴妻適姑為¶
@@ -644,4 +647,3 @@
 <pb:KR2a0036_WYG_021-36b>¶
 　　案通考云貝作&KR1437;雲南&KR1437;以一為庄四庄為手四¶
 　手為苗四苗為槖¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 159
+#+DATE: 2015-08-24 22:22:31.830267
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百五十九
 <pb:KR2a0036_WYG_159-1a>¶
 欽定四庫全書¶
 　元史卷一百五十九¶
@@ -344,4 +346,3 @@
 士孫二人崇郊祀署令𢎞左藏庫提㸃¶
 　¶
 　元史卷一百五十九¶
-

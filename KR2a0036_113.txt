@@ -1,10 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 113
+#+DATE: 2015-08-24 22:22:30.631182
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百十三考證
 <pb:KR2a0036_WYG_113-1a>¶
 元史巻一百十三考證¶
 宰相表順帝至正十二年叅知政事杜秉彛十月添設¶
 　　案順帝本紀杜秉彛是年七月為添設叅知政事¶
 　與此互異¶
-

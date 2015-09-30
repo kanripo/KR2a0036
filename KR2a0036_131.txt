@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 131
+#+DATE: 2015-08-24 22:22:31.037251
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百三十一
 <pb:KR2a0036_WYG_131-1a>¶
 欽定四庫全書¶
 　元史卷一百三十一¶
@@ -488,6 +490,7 @@
 　¶
 　¶
 　元史卷一百三十一¶
+#+PROPERTY: JUAN 卷一百三十一考證
 <pb:KR2a0036_WYG_131-28a>¶
 元史卷一百三十一考證¶
 蘇克傳涪州守將遺書納降　按遺字舊本訛遣今改¶
@@ -506,4 +509,3 @@
 　改¶
 貝降傳至大二年武宗奉皇太后避暑五臺　按武宗¶
 　舊訛仁宗今據本紀改¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 139
+#+DATE: 2015-08-24 22:22:31.260304
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百三十九
 <pb:KR2a0036_WYG_139-1a>¶
 欽定四庫全書¶
 　元史卷一百三十九¶
@@ -326,6 +328,7 @@
 　¶
 　¶
 　元史卷一百三十九¶
+#+PROPERTY: JUAN 卷一百三十九考證
 <pb:KR2a0036_WYG_139-19a>¶
 元史卷一百三十九考證¶
 奈曼台傳時金銀符未備惟加纓於槍上為等威至是¶
@@ -348,4 +351,3 @@
 　改¶
 努都爾噶傳倭人攻金復州殺紅軍據其州署　按署¶
 　字舊訛者今改¶
-

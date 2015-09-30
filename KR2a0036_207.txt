@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 207
+#+DATE: 2015-08-24 22:22:33.143608
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二百七
 <pb:KR2a0036_WYG_207-1a>¶
 欽定四庫全書¶
 　元史卷二百七¶
@@ -164,6 +166,7 @@
 　¶
 　¶
 　元史卷二百七¶
+#+PROPERTY: JUAN 卷二百七考證
 <pb:KR2a0036_WYG_207-10a>¶
 元史卷二百七考證¶
 特克實𫝊特們徳爾　原文作鐵木迭兒此又作鐵失¶
@@ -172,4 +175,3 @@
 　治三年正月¶
 博囉特穆爾𫝊至正十八年正月　據本紀加至正二¶
 　字¶
-

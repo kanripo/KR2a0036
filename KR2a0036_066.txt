@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 66
+#+DATE: 2015-08-24 22:22:29.458359
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十六
 <pb:KR2a0036_WYG_066-1a>¶
 欽定四庫全書¶
 　元史卷六十六¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　元卷卷六十六¶
+#+PROPERTY: JUAN 卷六十六考證
 <pb:KR2a0036_WYG_066-23a>¶
 元史卷六十六考證¶
 黄河又用大索四五為腰　四五原文譌之或互據續¶
@@ -424,4 +427,3 @@
 　改¶
 楊栁　栁原文譌林按楊栁堰已見前今據四川通志¶
 　改¶
-

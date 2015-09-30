@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 198
+#+DATE: 2015-08-24 22:22:32.882890
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百九十八
 <pb:KR2a0036_WYG_198-1a>¶
 欽定四庫全書¶
 　元史卷一百九十八¶
@@ -182,9 +184,9 @@
 　¶
 　¶
 　元史卷一百九十八¶
+#+PROPERTY: JUAN 卷一百九十八考證
 <pb:KR2a0036_WYG_198-11a>¶
 元史卷一百九十八考證¶
 石永紹興新昌人　萬姓統譜作石永夀按地理志紹¶
 　興瑞州所屬並有新昌元史類編以永為瑞州新昌¶
 　人¶
-

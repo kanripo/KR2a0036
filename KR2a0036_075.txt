@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 75
+#+DATE: 2015-08-24 22:22:29.648730
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十五
 <pb:KR2a0036_WYG_075-1a>¶
 欽定四庫全書¶
 　元史卷七十五¶
@@ -470,6 +472,7 @@
 　¶
 　¶
 　元史卷七十五¶
+#+PROPERTY: JUAN 卷七十五考證
 <pb:KR2a0036_WYG_075-27a>¶
 元史卷七十五考證¶
 祭祀志親謝儀其目有八　案親謝及攝祀儀亦全係¶
@@ -478,4 +481,3 @@
 　據耳¶
 路鼓一在祝之西南　案太常集禮路鼓在敔之西南¶
 　經世大典與此同¶
-

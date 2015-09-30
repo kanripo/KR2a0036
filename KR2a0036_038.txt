@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 38
+#+DATE: 2015-08-24 22:22:28.806619
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十八
 <pb:KR2a0036_WYG_038-1a>¶
 欽定四庫全書¶
 　元史卷三十八¶
@@ -416,6 +418,7 @@
 　¶
 　¶
 　元史卷三十八¶
+#+PROPERTY: JUAN 卷三十八考證
 <pb:KR2a0036_WYG_038-24a>¶
 元史卷三十八考證¶
 薩敦為太傅左丞相　原刻作右丞相考元史類編是¶
@@ -443,4 +446,3 @@
 　條之下今按甲子改正¶
 上太皇太后尊號曰贊天開聖徽懿昭宣　原刻訛宣¶
 　詔考永樂大典作宣昭今據元統二年本紀文改¶
-

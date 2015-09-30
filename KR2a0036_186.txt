@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 186
+#+DATE: 2015-08-24 22:22:32.562663
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百八十六
 <pb:KR2a0036_WYG_186-1a>¶
 欽定四庫全書¶
 　元史卷一百八十六¶
@@ -506,6 +508,7 @@
 　¶
 　¶
 　元史卷一百八十六¶
+#+PROPERTY: JUAN 卷一百八十六考證
 <pb:KR2a0036_WYG_186-29a>¶
 元史卷一百八十六考證¶
 張楨傳登元統二年進士第　原刻誤作元年按本紀¶
@@ -514,4 +517,3 @@
 曹鑑傳泰定七年遷湖廣行省左右司員外郎　按本¶
 　紀泰定帝在位止五年此書七年應有訛誤然别無¶
 　可考今識以闕疑¶
-

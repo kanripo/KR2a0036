@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 62
+#+DATE: 2015-08-24 22:22:29.363510
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十二
 <pb:KR2a0036_WYG_062-1a>¶
 欽定四庫全書¶
 　元史巻六十二¶
@@ -614,6 +616,7 @@
 　¶
 　¶
 　元史巻六十二¶
+#+PROPERTY: JUAN 卷六十二考證
 <pb:KR2a0036_WYG_062-35a>¶
 元史巻六十二考證¶
 松江府　按松有户數而無口數與史例不合當係刋¶
@@ -643,4 +646,3 @@
 　豐郡名志既於前惠州下書宋改惠州又改博羅郡¶
 <pb:KR2a0036_WYG_062-36b>¶
 　此復書宋為博羅郡未免牽混¶
-

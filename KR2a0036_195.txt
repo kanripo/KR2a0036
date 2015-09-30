@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 195
+#+DATE: 2015-08-24 22:22:32.806192
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百九十五
 <pb:KR2a0036_WYG_195-1a>¶
 欽定四庫全書¶
 　元史卷一百九十五¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　元史卷一百九十五¶
+#+PROPERTY: JUAN 卷一百九十五考證
 <pb:KR2a0036_WYG_195-23a>¶
 元史卷一百九十五考證¶
 巴延布哈徳濟𫝊　按𫝊所載世次名字質之虞集髙¶
@@ -411,4 +414,3 @@
 桂鄂勒哲　按名賢錄及温州志作季姓¶
 王巴延　志作王簡𫝊云巴延字伯敬其明徴也元史¶
 　類編依志作王簡¶
-

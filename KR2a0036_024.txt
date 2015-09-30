@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 24
+#+DATE: 2015-08-24 22:22:28.520197
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十四
 <pb:KR2a0036_WYG_024-1a>¶
 欽定四庫全書¶
 　元史卷二十四¶
@@ -614,6 +616,7 @@
 　¶
 　¶
 　元史卷二十四¶
+#+PROPERTY: JUAN 卷二十四考證
 <pb:KR2a0036_WYG_024-35a>¶
 元史卷二十四考證¶
 仁宗紀大徳十一年三月丙辰　按丙辰原刻作丙寅¶
@@ -634,4 +637,3 @@
 　諸王表鄂勒哲以大徳九年封衛安王至大三年已¶
 <pb:KR2a0036_WYG_024-36a>¶
 　進衛王今據改¶
-

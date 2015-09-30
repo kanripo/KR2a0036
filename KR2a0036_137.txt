@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 137
+#+DATE: 2015-08-24 22:22:31.206585
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百三十七
 <pb:KR2a0036_WYG_137-1a>¶
 欽定四庫全書¶
 　元史卷一百三十七¶
@@ -290,6 +292,7 @@
 　¶
 　¶
 　元史卷一百三十七¶
+#+PROPERTY: JUAN 卷一百三十七考證
 <pb:KR2a0036_WYG_137-17a>¶
 元史卷一百三十七考證¶
 齊蘇傳遷陜西等處行尚書省叅知政事　按省字舊¶
@@ -298,4 +301,3 @@
 　今改¶
 阿爾哈雅傳糴諸汴汝近郡者則運諸榮陽　按滎陽¶
 　舊訛熒陽據地理志改¶
-

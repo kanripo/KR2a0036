@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 44
+#+DATE: 2015-08-24 22:22:28.941962
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十四
 <pb:KR2a0036_WYG_044-1a>¶
 欽定四庫全書¶
 　元史卷四十四¶
@@ -326,6 +328,7 @@
 　¶
 　¶
 　元史卷四十四¶
+#+PROPERTY: JUAN 卷四十四考證
 <pb:KR2a0036_WYG_044-19a>¶
 元史卷四十四考證¶
 至正十五年春正月以中書平章政事綽斯戩為提調¶
@@ -351,4 +354,3 @@
 十月壬辰太隂犯井宿　天文志同載推干支是月不¶
 　應有壬辰日當即下文十一月之壬辰太隂犯井而¶
 　誤書於此者存之以志闕疑¶
-

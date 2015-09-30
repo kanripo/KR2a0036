@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 26
+#+DATE: 2015-08-24 22:22:28.567028
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十六
 <pb:KR2a0036_WYG_026-1a>¶
 欽定四庫全書¶
 　元史卷二十六¶
@@ -434,6 +436,7 @@
 　¶
 　¶
 　元史卷二十六¶
+#+PROPERTY: JUAN 卷二十六考證
 <pb:KR2a0036_WYG_026-25a>¶
 元史卷二十六考證¶
 延祐四年夏四月甲辰以㤗寜路隸遼陽省　按泰寜¶
@@ -452,4 +455,3 @@
 九月詔四宿衛嘗受刑者勿令造禁廷　按元制有四¶
 　集賽宿直宫禁所云四宿衛當即指此詔字下原刻¶
 　衍謂字今據文義刪¶
-

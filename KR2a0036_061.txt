@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 61
+#+DATE: 2015-08-24 22:22:29.340450
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十一
 <pb:KR2a0036_WYG_061-1a>¶
 欽定四庫全書¶
 　元史巻六十一¶
@@ -668,6 +670,7 @@
 　¶
 　¶
 　元史巻六十一¶
+#+PROPERTY: JUAN 卷六十一考證
 <pb:KR2a0036_WYG_061-38a>¶
 元史巻六十一考證¶
 中慶路六世孫豐祐改曰善闡　原文作劵豐祐按豐¶
@@ -713,4 +716,3 @@
 趙州瞼其一也　瞼原文譌睒據唐志改正¶
 雲南州唐以漢雲南縣置郡　按唐志初為雲南州後¶
 　改為州領勃弄匡州二縣則唐未嘗於此置郡史誤¶
-

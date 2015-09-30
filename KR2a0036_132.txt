@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 132
+#+DATE: 2015-08-24 22:22:31.066316
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百三十二
 <pb:KR2a0036_WYG_132-1a>¶
 欽定四庫全書¶
 　元史卷一百三十二¶
@@ -362,6 +364,7 @@
 　¶
 　¶
 　元史卷一百三十二¶
+#+PROPERTY: JUAN 卷一百三十二考證
 <pb:KR2a0036_WYG_132-21a>¶
 元史卷一百三十二考證¶
 哈噶斯傳及其長子阿都齊扈駕親征既還阿都齊入¶
@@ -425,4 +428,3 @@
 特穆爾布哈傳其兄特穆爾托歡　按特穆爾托歡原¶
 　文帖木脫斡考之經世大典盖帖木兒脫歡之誤今¶
 　據改¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 93
+#+DATE: 2015-08-24 22:22:30.143175
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十三
 <pb:KR2a0036_WYG_093-1a>¶
 欽定四庫全書¶
 　元史卷九十三¶
@@ -560,10 +562,10 @@
 　¶
 　¶
 　元史卷九十三¶
+#+PROPERTY: JUAN 卷九十三考證
 <pb:KR2a0036_WYG_093-32a>¶
 元史卷九十三考證¶
 至元七年頒農桑之制一十四條　按元典章載是時¶
 　頒農桑制几十五條俱詳著其目志云十四條誤¶
 新收交參户第一年五斗第二年七斗五升　原本脱¶
 　第二年一句據續通考改增¶
-

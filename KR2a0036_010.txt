@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:22:28.210613
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR2a0036_WYG_010-1a>¶
 欽定四庫全書¶
 　元史卷十¶
@@ -560,6 +562,7 @@
 　¶
 　¶
 　元史卷十¶
+#+PROPERTY: JUAN 卷十考證
 <pb:KR2a0036_WYG_010-32a>¶
 元史本紀卷十考證¶
 至元十五年三月乙未宋廣王昺遣倪堅以表來上¶
@@ -591,4 +594,3 @@
 　寅原本訛丙辰今據前後干支改¶
 六月癸巳詔以髙州筠連州新附戸于叙州立驛　案¶
 　筠字原本訛荺叙州原本訛溆並據地理志改¶
-

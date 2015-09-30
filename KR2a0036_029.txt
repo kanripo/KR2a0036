@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 29
+#+DATE: 2015-08-24 22:22:28.627258
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十九
 <pb:KR2a0036_WYG_029-1a>¶
 欽定四庫全書¶
 　元史巻二十九¶
@@ -668,6 +670,7 @@
 　¶
 　¶
 　元史巻二十九¶
+#+PROPERTY: JUAN 卷二十九考證
 <pb:KR2a0036_WYG_029-38a>¶
 元史巻二十九考證¶
 至治三年九月癸巳　按原刻無九月二字據詔書癸¶
@@ -688,4 +691,3 @@
 　午為二十九日戊申則已在三十日外其為十一月¶
 <pb:KR2a0036_WYG_029-39a>¶
 　無疑原刻無月今增¶
-

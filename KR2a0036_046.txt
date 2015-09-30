@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 46
+#+DATE: 2015-08-24 22:22:28.978782
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十六
 <pb:KR2a0036_WYG_046-1a>¶
 欽定四庫全書¶
 　元史卷四十六¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　元史卷四十六¶
+#+PROPERTY: JUAN 卷四十六考證
 <pb:KR2a0036_WYG_046-23a>¶
 元史卷四十六考證¶
 至正二十一年秋七月　按續通考是年七月辛酉朔¶
@@ -411,4 +414,3 @@
 　原本脱十一月據天文志増¶
 察罕特穆爾父阿敦　阿敦原文阿都温此作阿魯温¶
 　係一人今畫一改¶
-

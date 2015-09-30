@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 59
+#+DATE: 2015-08-24 22:22:29.289204
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十九
 <pb:KR2a0036_WYG_059-1a>¶
 欽定四庫全書¶
 　元史卷五十九¶
@@ -542,6 +544,7 @@
 　¶
 　¶
 　元史巻五十九¶
+#+PROPERTY: JUAN 卷五十九考證
 <pb:KR2a0036_WYG_059-31a>¶
 元史巻五十九考證¶
 陳州宋升淮寧府　原文作懐徳府按宋史志淮寧府¶
@@ -556,4 +559,3 @@
 　志鈞州舊陽翟縣偽齊為潁順軍大定二十二年升¶
 　為州是未改鈞州已前當稱潁順今據増¶
 房州宋置保康軍　原文訛保寧據宋志及寰宇記改¶
-

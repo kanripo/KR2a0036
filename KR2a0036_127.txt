@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 127
+#+DATE: 2015-08-24 22:22:30.938093
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百二十七
 <pb:KR2a0036_WYG_127-1a>¶
 欽定四庫全書¶
 　元史卷一百二十七¶
@@ -434,6 +436,7 @@
 　¶
 　¶
 　元史卷一百二十七¶
+#+PROPERTY: JUAN 卷一百二十七考證
 <pb:KR2a0036_WYG_127-25a>¶
 元史卷一百二十七考證¶
 巴延傳巴延阿珠未及介胄　阿珠各卷皆作阿术此¶
@@ -454,4 +457,3 @@
 　人黃氏今據補¶
 <pb:KR2a0036_WYG_127-26a>¶
 因仍保守　原文脫因字不成句據紀事本末增¶
-

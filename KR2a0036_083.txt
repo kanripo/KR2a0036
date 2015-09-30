@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 83
+#+DATE: 2015-08-24 22:22:29.856572
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十三
 <pb:KR2a0036_WYG_083-1a>¶
 欽定四庫全書¶
 　元史卷八十三¶
@@ -848,6 +850,7 @@
 　¶
 　¶
 　元史卷八十三¶
+#+PROPERTY: JUAN 卷八十三考證
 <pb:KR2a0036_WYG_083-48a>¶
 元史卷八十三考證¶
 選舉志三流官於巡檢内用雜職於省劄錢榖官内用¶
@@ -857,4 +860,3 @@
 　令史原刻作令吏今據百官志改¶
 選舉志三太府監行内藏庫子三周年為滿　按内藏¶
 　原刻訛由藏今據百官志改¶
-

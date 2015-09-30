@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 183
+#+DATE: 2015-08-24 22:22:32.486120
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百八十三
 <pb:KR2a0036_WYG_183-1a>¶
 欽定四庫全書¶
 　元史卷一百八十三¶
@@ -434,6 +436,7 @@
 　¶
 　¶
 　元史卷一百八十三¶
+#+PROPERTY: JUAN 卷一百八十三考證
 <pb:KR2a0036_WYG_183-25a>¶
 元史卷一百八十三考證¶
 李好文𫝊凡五十一卷　原刻作五十卷按好文自撰¶
@@ -442,4 +445,3 @@
 　　革典籍六合五十一卷今據増¶
 富珠哩翀傳始名思温　原刻訛恩温據永樂大典及¶
 　　滋溪集改正¶
-

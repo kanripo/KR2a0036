@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 148
+#+DATE: 2015-08-24 22:22:31.517894
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百四十八
 <pb:KR2a0036_WYG_148-1a>¶
 欽定四庫全書¶
 　元史卷一百四十八¶
@@ -434,6 +436,7 @@
 　¶
 　¶
 　元史卷一百四十八¶
+#+PROPERTY: JUAN 卷一百四十八考證
 <pb:KR2a0036_WYG_148-25a>¶
 元史卷一百四十八考證¶
 董文忠𫝊有㫖徙大都獵户于郢中文忠奏止之　案¶
@@ -446,4 +449,3 @@
 <pb:KR2a0036_WYG_148-25b>¶
 　俱作忠貞謚以易名不應即用其名為謚或先謚忠¶
 　貞後復易為正獻故記載互異謹附識¶
-

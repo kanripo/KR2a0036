@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:22:28.146455
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR2a0036_WYG_007-1a>¶
 欽定四庫全書¶
 　元史卷七¶
@@ -452,6 +454,7 @@
 　¶
 　¶
 　元史卷七¶
+#+PROPERTY: JUAN 卷七考證
 <pb:KR2a0036_WYG_007-26a>¶
 元史卷七考證¶
 七年立藉田中都東南郊　原文譌大都説見前卷六¶
@@ -475,4 +478,3 @@
 　進續通鑑所載甚詳宋史亦同史所紀互異¶
 十二月乙酉朔　戉午　按干支訛舛無可訂正仍闕¶
 　疑¶
-

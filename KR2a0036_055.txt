@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 55
+#+DATE: 2015-08-24 22:22:29.195327
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十五
 <pb:KR2a0036_WYG_055-1a>¶
 欽定四庫全書¶
 　元史卷五十五¶
@@ -552,6 +554,7 @@
 　¶
 　¶
 　元史卷五十五¶
+#+PROPERTY: JUAN 卷五十五考證
 <pb:KR2a0036_WYG_055-36a>¶
 元史卷五十五考證¶
 求月食分秒　按原刻標題脱分字今據本文増¶
@@ -559,4 +562,3 @@
 　今改¶
 木星　按古五星次序皆以木火土金水順列此五星¶
 　原刻首末俱作水星前水字乃木字之訛今改¶
-

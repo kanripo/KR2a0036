@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 117
+#+DATE: 2015-08-24 22:22:30.717817
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百十七
 <pb:KR2a0036_WYG_117-1a>¶
 欽定四庫全書¶
 　元史卷一百十七¶
@@ -200,6 +202,7 @@
 　¶
 　¶
 　元史卷一百十七¶
+#+PROPERTY: JUAN 卷一百十七考證
 <pb:KR2a0036_WYG_117-12a>¶
 元史卷一百十七考證¶
 伊克圖傳憲宗命将大軍　原文作大将軍考元時諸¶
@@ -213,4 +216,3 @@
 　倂改其他名以不花而又訛普化補化者倣此¶
 巴延岱爾　原文作伯顔達兒他卷又作伯達兒今併¶
 　改¶
-

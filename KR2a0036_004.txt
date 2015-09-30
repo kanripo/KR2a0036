@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:22:28.071599
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR2a0036_WYG_004-1a>¶
 欽定四庫全書¶
 　元史卷四¶
@@ -470,6 +472,7 @@
 　¶
 　¶
 　元史卷四¶
+#+PROPERTY: JUAN 卷四考證
 <pb:KR2a0036_WYG_004-27a>¶
 元史卷四考證¶
 命大將伊克及巴圖爾追之　巴圖爾原文作㧞&KR0723;兒¶
@@ -488,4 +491,3 @@
 　倣此¶
 遇于實黙圖諾爾之地　實黙圖原文作昔木土他卷¶
 　又作失木土昔門秃失木秃又作石木温都今併改¶
-

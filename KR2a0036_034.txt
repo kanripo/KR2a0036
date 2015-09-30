@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 34
+#+DATE: 2015-08-24 22:22:28.729356
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十四
 <pb:KR2a0036_WYG_034-1a>¶
 欽定四庫全書¶
 　元史卷三十四¶
@@ -596,6 +598,7 @@
 　¶
 　¶
 　元史卷三十四¶
+#+PROPERTY: JUAN 卷三十四考證
 <pb:KR2a0036_WYG_034-34a>¶
 元史卷三十四考證¶
 並領長宻卿　按元官制無長宻卿樞宻院亦無卿名¶
@@ -609,4 +612,3 @@
 　升縣為州于此自應書州今據志改¶
 黒龍松阿哩二江水溢　原刻松阿哩作宋瓦乃音譯¶
 　之訛葢松阿哩即松花江故與黒龍江並稱也¶
-

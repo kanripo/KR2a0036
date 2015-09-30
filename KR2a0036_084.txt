@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 84
+#+DATE: 2015-08-24 22:22:29.884198
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十四
 <pb:KR2a0036_WYG_084-1a>¶
 欽定四庫全書¶
 　元史卷八十四¶
@@ -650,6 +652,7 @@
 　¶
 　¶
 　　元史卷八十四¶
+#+PROPERTY: JUAN 卷八十四考證
 <pb:KR2a0036_WYG_084-37a>¶
 元史卷八十四考證¶
 選舉志四兩廣海北海南道於此發去八十月滿　按¶
@@ -667,4 +670,3 @@
 　文封贈綱領自應另起原刻接連上書今據文義改¶
 選舉志四正從六品母妻並恭人　按恭人原刻作宜¶
 　人今據元典章及通考改¶
-

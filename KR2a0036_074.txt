@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 74
+#+DATE: 2015-08-24 22:22:29.627081
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十四
 <pb:KR2a0036_WYG_074-1a>¶
 欽定四庫全書¶
 　元史卷七十四¶
@@ -596,6 +598,7 @@
 　¶
 　¶
 　元史卷七十四¶
+#+PROPERTY: JUAN 卷七十四考證
 <pb:KR2a0036_WYG_074-34a>¶
 元史卷七十四考證¶
 祭祀志至元三年秋九月始作八室　案定八室之制¶
@@ -605,4 +608,3 @@
 　文奏亦稱六年志或别有所据¶
 十八年二月博士李時衍等議歴代廟制　案經世大¶
 　典李時衍等議作十六年事與此異¶
-

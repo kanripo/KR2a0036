@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 144
+#+DATE: 2015-08-24 22:22:31.405235
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百四十四
 <pb:KR2a0036_WYG_144-1a>¶
 欽定四庫全書¶
 　元史卷一百四十四¶
@@ -308,6 +310,7 @@
 　¶
 　¶
 　元史卷一百四十四¶
+#+PROPERTY: JUAN 卷一百四十四考證
 <pb:KR2a0036_WYG_144-18a>¶
 元史卷一百四十四考證¶
 達爾瑪傳行唐縣民砍桑道側　按行唐舊訛行堂據¶
@@ -322,4 +325,3 @@
 　今改¶
 桑節傳番僧曰小住持者服三品命服恃寵橫甚　按¶
 　舊本命字下脫服字今增¶
-

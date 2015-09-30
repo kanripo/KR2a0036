@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 57
+#+DATE: 2015-08-24 22:22:29.238882
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十七
 <pb:KR2a0036_WYG_057-1a>¶
 欽定四庫全書¶
 　元史卷五十七¶
@@ -460,6 +462,7 @@
 　¶
 　¶
 　元史卷五十七¶
+#+PROPERTY: JUAN 卷五十七考證
 <pb:KR2a0036_WYG_057-30a>¶
 元史卷五十七考證¶
 求朔望加時入交常日及定日　按定日原刻脱日字¶
@@ -467,4 +470,3 @@
 日在盈厯以差日差度减之　按盈厯原刻作盈縮今¶
 　據文義改¶
 求刻差　按原刻標目脱差字今據正文増¶
-

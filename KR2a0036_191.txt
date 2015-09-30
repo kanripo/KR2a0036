@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 191
+#+DATE: 2015-08-24 22:22:32.691392
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百九十一
 <pb:KR2a0036_WYG_191-1a>¶
 欽定四庫全書¶
 　元史卷一百九十一¶
@@ -182,6 +184,7 @@
 　¶
 　¶
 　元史卷一百九十一¶
+#+PROPERTY: JUAN 卷一百九十一考證
 <pb:KR2a0036_WYG_191-11a>¶
 元史卷一百九十一考證¶
 譚澄𫝊興徳懐來人　原刻訛作徳興據金史及地理¶
@@ -190,4 +193,3 @@
 　二人曰澄曰山阜今増¶
 許楫𫝊幼從元裕之學　原刻無之字按裕之元好問¶
 　字也今増¶
-

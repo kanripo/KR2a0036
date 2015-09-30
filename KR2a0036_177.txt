@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 177
+#+DATE: 2015-08-24 22:22:32.315690
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百七十七
 <pb:KR2a0036_WYG_177-1a>¶
 欽定四庫全書¶
 　元史卷一百七十七¶
@@ -272,8 +274,8 @@
 　¶
 　¶
 　元史卷一百七十七¶
+#+PROPERTY: JUAN 卷一百七十七考證
 <pb:KR2a0036_WYG_177-16a>¶
 元史卷一百七十七考證¶
 張并𫝊大臣承中㫖　按原刻訛中書今據永樂大典¶
 　改¶
-

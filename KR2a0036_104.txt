@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 104
+#+DATE: 2015-08-24 22:22:30.432755
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百四
 <pb:KR2a0036_WYG_104-1a>¶
 欽定四庫全書¶
 　元史卷一百四¶
@@ -488,6 +490,7 @@
 　¶
 　¶
 　元史巻一百四¶
+#+PROPERTY: JUAN 卷一百四考證
 <pb:KR2a0036_WYG_104-28a>¶
 元史卷一百四考證¶
 刑法志三若茶園磨戸犯者及運茶車船主知情夾帶¶
@@ -504,4 +507,3 @@
 　改¶
 刑法志三諸婦人為盗㫁罪免刺配及充警迹人　按¶
 　原刻脱充字今據文義増¶
-

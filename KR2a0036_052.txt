@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 52
+#+DATE: 2015-08-24 22:22:29.125944
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十二
 <pb:KR2a0036_WYG_052-1a>¶
 欽定四庫全書¶
 　元史卷五十二¶
@@ -691,6 +693,7 @@
 　¶
 　¶
 　元史卷五十二¶
+#+PROPERTY: JUAN 卷五十二考證
 <pb:KR2a0036_WYG_052-41a>¶
 元史卷五十二考證¶
 授時厯議上十二月初六日庚申十一月二十一日丙¶
@@ -707,4 +710,3 @@
 　據前後體例増¶
 古今厯叅校疎宻授時厯上考大定己亥嵗得己巳冬¶
 　至　按原刻脱得字今據文義及前後體例増¶
-

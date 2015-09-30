@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 101
+#+DATE: 2015-08-24 22:22:30.359580
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百一
 <pb:KR2a0036_WYG_101-1a>¶
 欽定四庫全書¶
 　元史卷一百一¶
@@ -434,6 +436,7 @@
 　¶
 　¶
 　元史卷一百一¶
+#+PROPERTY: JUAN 卷一百一考證
 <pb:KR2a0036_WYG_101-25a>¶
 元史卷一百一考證¶
 太宗元年北使臣每日支肉一斤麵一斤　按北字舊¶
@@ -442,4 +445,3 @@
 　陸站一百五處六字據經世大典補¶
 四川行中書省所轄　按此條獨無總數以下文計之¶
 　當為一百三十二處¶
-

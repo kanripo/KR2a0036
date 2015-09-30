@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 190
+#+DATE: 2015-08-24 22:22:32.663144
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百九十
 <pb:KR2a0036_WYG_190-1a>¶
 欽定四庫全書¶
 　元史卷一百九十¶
@@ -524,6 +526,7 @@
 　¶
 　¶
 　元史卷一百九十¶
+#+PROPERTY: JUAN 卷一百九十考證
 <pb:KR2a0036_WYG_190-30a>¶
 元史卷一百九十考證¶
 胡長孺傳縣有銅巖　原刻縣訛作新據元史類編及¶
@@ -540,4 +543,3 @@
 韓性傳顧力行何如耳　原刻無力字據元史類編増¶
 程端禮傳所著有讀書日程　原刻訛作工程據山堂¶
 　肆考改正¶
-

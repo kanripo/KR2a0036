@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 67
+#+DATE: 2015-08-24 22:22:29.476798
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十七
 <pb:KR2a0036_WYG_067-1a>¶
 欽定四庫全書¶
 　元史卷六十七¶
@@ -614,6 +616,7 @@
 　¶
 　¶
 　元史卷六十七¶
+#+PROPERTY: JUAN 卷六十七考證
 <pb:KR2a0036_WYG_067-35a>¶
 元史卷六十七考證¶
 禮樂一太常所肄者教坊俗樂而已　按所字原本訛¶
@@ -638,4 +641,3 @@
 　二百五十人所書總數亦有誤¶
 授皇太子册寶凡攝官四十九人　按下文實五十人¶
 　數亦不符¶
-

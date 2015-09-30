@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 188
+#+DATE: 2015-08-24 22:22:32.613007
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百八十八
 <pb:KR2a0036_WYG_188-1a>¶
 欽定四庫全書¶
 　元史卷一百八十八¶
@@ -272,9 +274,9 @@
 　¶
 　¶
 　元史卷一百八十八¶
+#+PROPERTY: JUAN 卷一百八十八考證
 <pb:KR2a0036_WYG_188-16a>¶
 元史卷一百八十八考證¶
 劉哈喇布哈𫝊十八年山東毛貴率其賊衆由河間趨¶
 　直沽　原刻作十七年按順帝本紀毛貴䧟漷州畧¶
 　栁林係十八年事續通鑑亦同今據改¶
-

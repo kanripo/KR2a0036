@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 81
+#+DATE: 2015-08-24 22:22:29.809796
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十一
 <pb:KR2a0036_WYG_081-1a>¶
 欽定四庫全書¶
 　元史卷八十一¶
@@ -524,6 +526,7 @@
 　¶
 　¶
 　元史卷八十一¶
+#+PROPERTY: JUAN 卷八十一考證
 <pb:KR2a0036_WYG_081-30a>¶
 元史卷八十一考證¶
 選舉志一所入之途難以指計雖名卿大夫亦往往由¶
@@ -538,4 +541,3 @@
 選舉志一延祐初令隂陽人依儒醫例於路府州設教¶
 　授一員　按原刻本于員字上脱一字今據百官志¶
 　增¶
-

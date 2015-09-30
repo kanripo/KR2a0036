@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 39
+#+DATE: 2015-08-24 22:22:28.832613
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十九
 <pb:KR2a0036_WYG_039-1a>¶
 欽定四庫全書¶
 　元史卷三十九¶
@@ -344,8 +346,8 @@
 　¶
 　¶
 　元史卷三十九¶
+#+PROPERTY: JUAN 卷三十九考證
 <pb:KR2a0036_WYG_039-20a>¶
 元史卷三十九考證¶
 減馬湖路　原刻作湖馬路按永樂大典作馬湖路宏¶
 　簡録並同今據改¶
-

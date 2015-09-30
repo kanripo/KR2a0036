@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 23
+#+DATE: 2015-08-24 22:22:28.500603
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十三
 <pb:KR2a0036_WYG_023-1a>¶
 欽定四庫全書¶
 　元史卷二十三¶
@@ -578,6 +580,7 @@
 　¶
 　¶
 　元史卷二十三¶
+#+PROPERTY: JUAN 卷二十三考證
 <pb:KR2a0036_WYG_023-33a>¶
 元史卷二十三考證¶
 武宗本紀至大二年正月庚寅越王圖喇有罪賜死¶
@@ -586,4 +589,3 @@
 　至元鈔五倍于中統鈔至大鈔又五倍于至元鈔未¶
 　及期年仁宗即位即罷銀鈔而中統至元二鈔終元¶
 　之世葢常行焉¶
-

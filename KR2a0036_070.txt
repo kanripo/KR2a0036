@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 70
+#+DATE: 2015-08-24 22:22:29.539613
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十
 <pb:KR2a0036_WYG_070-1a>¶
 欽定四庫全書¶
 　元史卷七十¶
@@ -380,6 +382,7 @@
 　¶
 　¶
 　元史卷七十¶
+#+PROPERTY: JUAN 卷七十考證
 <pb:KR2a0036_WYG_070-22a>¶
 元史卷七十考證¶
 宗廟樂舞太宗苐三室文舞二鼓兩兩相向髙呈手立¶
@@ -397,4 +400,3 @@
 天厯三年新製樂舞　按八字係標目舊本誤入㤗定¶
 　十室篇末而以明宗酌獻武舞永成之曲云云一併¶
 　連綴無别據經世大典釐正¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 129
+#+DATE: 2015-08-24 22:22:30.989390
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百二十九
 <pb:KR2a0036_WYG_129-1a>¶
 欽定四庫全書¶
 　元史卷一百二十九¶
@@ -452,6 +454,7 @@
 　¶
 　¶
 　元史卷一百二十九¶
+#+PROPERTY: JUAN 卷一百二十九考證
 <pb:KR2a0036_WYG_129-26a>¶
 元史卷一百二十九考證¶
 來阿巴齊傳二十四年正月　原本於領中衛軍千人¶
@@ -461,4 +464,3 @@
 耨埒傳西南夷雄左都掌蠻得蘭右叛　本紀左作挫¶
 　右作紐音譯互異¶
 阿嘍罕傳扎拉爾氏　考虞集世勲碑作㾗都斯坦氏¶
-

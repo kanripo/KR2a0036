@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:22:28.017255
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR2a0036_WYG_001-1a>¶
 欽定四庫全書¶
 　元史卷一¶
@@ -506,6 +508,7 @@
 　¶
 　¶
 　元史卷一¶
+#+PROPERTY: JUAN 卷一考證
 <pb:KR2a0036_WYG_001-29a>¶
 元史卷一考證¶
 阿倫果斡寡居　阿倫果斡原文作阿蘭果火史䝉上¶
@@ -572,4 +575,3 @@
 <pb:KR2a0036_WYG_001-32b>¶
 二十一年丙戌　按史例編年皆紀以干支此獨失繫¶
 　今增載後倣此¶
-

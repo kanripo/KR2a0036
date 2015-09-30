@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 71
+#+DATE: 2015-08-24 22:22:29.558961
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十一
 <pb:KR2a0036_WYG_071-1a>¶
 欽定四庫全書¶
 　元史卷七十一¶
@@ -308,6 +310,7 @@
 　¶
 　¶
 　元史卷七十一¶
+#+PROPERTY: JUAN 卷七十一考證
 <pb:KR2a0036_WYG_071-18a>¶
 元史卷七十一考證¶
 樂服篇朱履百五十對　按太常集禮作朱履百五十¶
@@ -334,4 +337,3 @@
 　洗位訛盥洗位並據太常集禮改¶
 卷末附載内外導從見輿服志　按史内外導從實統¶
 　附於輿服志原本云見儀衞志史無此志名今改¶
-

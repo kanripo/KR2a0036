@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 136
+#+DATE: 2015-08-24 22:22:31.182823
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百三十六
 <pb:KR2a0036_WYG_136-1a>¶
 欽定四庫全書¶
 　元史卷一百三十六¶
@@ -380,6 +382,7 @@
 功臣餘如故子都稜特穆爾¶
 　¶
 　元史卷一百三十六¶
+#+PROPERTY: JUAN 卷一百三十六考證
 <pb:KR2a0036_WYG_136-22a>¶
 元史卷一百三十六考證¶
 哈喇哈斯傳徼名首釁　按名字舊訛民今改¶
@@ -391,4 +394,3 @@
 拜珠傳冬十二月進右丞相　按英宗本紀拜珠為右¶
 <pb:KR2a0036_WYG_136-22b>¶
 　丞相實在十月¶
-

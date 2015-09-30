@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 77
+#+DATE: 2015-08-24 22:22:29.706092
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十七
 <pb:KR2a0036_WYG_077-1a>¶
 欽定四庫全書¶
 　元史卷七十七¶
@@ -416,9 +418,9 @@
 　¶
 　¶
 　元史卷七十七¶
+#+PROPERTY: JUAN 卷七十七考證
 <pb:KR2a0036_WYG_077-24a>¶
 元史卷七十七考證¶
 祭祀志三皇廟祭祀樂章　案經世大典延祐中曽議¶
 　三皇廟樂章未果行此所載係順帝時所撰元典章¶
 　太常集禮經世大典皆無之永樂大典亦缺¶
-

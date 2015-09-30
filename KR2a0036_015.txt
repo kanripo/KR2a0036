@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 22:22:28.314947
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR2a0036_WYG_015-1a>¶
 欽定四庫全書¶
 　元史卷十五¶
@@ -578,6 +580,7 @@
 　¶
 　¶
 　元史卷十五¶
+#+PROPERTY: JUAN 卷十五考證
 <pb:KR2a0036_WYG_015-33a>¶
 元史本紀卷十五考證¶
 至元二十五年二月壬戌省江南湖北提刑按察司入¶
@@ -600,4 +603,3 @@
 閏十月乙巳緬國遣使來貢方物　案乙巳原本訛丙¶
 　午下文十一月丙午朔而上文又有甲辰其為乙巳¶
 　之誤無疑今改¶
-

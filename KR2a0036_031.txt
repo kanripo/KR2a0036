@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 31
+#+DATE: 2015-08-24 22:22:28.666643
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十一
 <pb:KR2a0036_WYG_031-1a>¶
 欽定四庫全書¶
 　元史巻三十一¶
@@ -218,6 +220,7 @@
 　¶
 　¶
 　元史巻三十一¶
+#+PROPERTY: JUAN 卷三十一考證
 <pb:KR2a0036_WYG_031-13a>¶
 元史巻三十一考證¶
 天厯二年三月　按三月原刻訛二月今據永樂大典¶
@@ -227,4 +230,3 @@
 　諸王表増¶
 十二月乙巳請上尊謚　按文宗紀作十月丙申與此¶
 　異¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 106
+#+DATE: 2015-08-24 22:22:30.493077
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百六
 <pb:KR2a0036_WYG_106-1a>¶
 欽定四庫全書¶
 　元史巻一百六¶
@@ -43,6 +45,7 @@
 　¶
 　¶
 　元史卷一百六¶
+#+PROPERTY: JUAN 卷一百六考證
 <pb:KR2a0036_WYG_106-7a>¶
 元史巻一百六考證¶
 太宗托里格訥六皇后鼐瑪錦氏嵗壬寅太宗崩后攝¶
@@ -60,4 +63,3 @@
 　　帝后而寧順兩朝闕如按寧宗短世然順帝為之立¶
 　　后祔廟有其名則不容沒其實今采本傳並補入表¶
 　　中¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 22:22:28.296999
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十四
 <pb:KR2a0036_WYG_014-1a>¶
 欽定四庫全書¶
 　元史卷十四¶
@@ -488,6 +490,7 @@
 　¶
 　¶
 　元史卷十四¶
+#+PROPERTY: JUAN 卷十四考證
 <pb:KR2a0036_WYG_014-28a>¶
 元史本紀卷十四考證¶
 至元二十三年二月丙午太隂犯井　案原本誤以丙¶
@@ -503,4 +506,3 @@
 乙酉停不急之務　原本急訛給今案文義改¶
 十一月丁酉僧格言先是皇子莽噶拉封安西王　案¶
 　莽噶拉原文忙阿剌此又訛忙哥剌今併改¶
-

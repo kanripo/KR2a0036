@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:22:28.090589
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR2a0036_WYG_005-1a>¶
 欽定四庫全書¶
 　元史卷五¶
@@ -506,6 +508,7 @@
 　¶
 　¶
 　元史卷五¶
+#+PROPERTY: JUAN 卷五考證
 <pb:KR2a0036_WYG_005-29a>¶
 元史卷五考證¶
 三年以興松雲三州𨽻上都　按四年紀云五月庚子¶
@@ -529,4 +532,3 @@
 　於三年始賜印與紀不合¶
 錫里濟　原文作昔里給他卷又作昔里吉失列吉又¶
 　訛作失吉列今併改¶
-

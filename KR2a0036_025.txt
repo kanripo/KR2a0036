@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 25
+#+DATE: 2015-08-24 22:22:28.545225
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十五
 <pb:KR2a0036_WYG_025-1a>¶
 欽定四庫全書¶
 　元史卷二十五¶
@@ -308,6 +310,7 @@
 　¶
 　¶
 　元史卷二十五¶
+#+PROPERTY: JUAN 卷二十五考證
 <pb:KR2a0036_WYG_025-18a>¶
 元史卷二十五考證¶
 仁宗紀延祐元年夏四月丁亥敇儲青海五條河屯田¶
@@ -323,4 +326,3 @@
 　移改¶
 甲寅復陳州商水鎮為南頓縣　按南頓原刻訛南屯¶
 　今據志改¶
-

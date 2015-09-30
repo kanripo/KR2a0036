@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 78
+#+DATE: 2015-08-24 22:22:29.730590
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十八
 <pb:KR2a0036_WYG_078-1a>¶
 欽定四庫全書¶
 　元史卷七十八¶
@@ -560,10 +562,10 @@
 　¶
 　¶
 　元史卷七十八¶
+#+PROPERTY: JUAN 卷七十八考證
 <pb:KR2a0036_WYG_078-32a>¶
 元史卷七十八考證¶
 衮冕長二尺四寸　原本脱二尺字下文翠旒十二訛¶
 　珠旒並據宋史及文獻通考改¶
 仁宗延祐元年冬十有二月定服色等第　按元典章¶
 　作二年二月事¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 147
+#+DATE: 2015-08-24 22:22:31.484221
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百四十七
 <pb:KR2a0036_WYG_147-1a>¶
 欽定四庫全書¶
 　元史卷一百四十七¶
@@ -416,9 +418,9 @@
 　¶
 　¶
 　元史卷一百四十七¶
+#+PROPERTY: JUAN 卷一百四十七考證
 <pb:KR2a0036_WYG_147-24a>¶
 元史卷一百四十七考證¶
 史天倪𫝊子權充江漢大都督　案世祖本紀史權于¶
 　中統三年已為江漢大都督命將兵赴燕此言七年¶
 　始充是職彼此互異¶
-

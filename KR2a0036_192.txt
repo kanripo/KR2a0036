@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 192
+#+DATE: 2015-08-24 22:22:32.725569
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百九十二
 <pb:KR2a0036_WYG_192-1a>¶
 欽定四庫全書¶
 　元史卷一百九十二¶
@@ -272,6 +274,7 @@
 　¶
 　¶
 　元史卷一百九十二¶
+#+PROPERTY: JUAN 卷一百九十二考證
 <pb:KR2a0036_WYG_192-16a>¶
 元史卷一百九十二考證¶
 王艮𫝊有小吏誣民欺隠詭寄田租九千餘石初止八¶
@@ -280,4 +283,3 @@
 　本可証今識其疑于此¶
 劉秉直𫝊為衛輝路摠管　原刻作來為衛輝路摠管¶
 　非史體¶
-

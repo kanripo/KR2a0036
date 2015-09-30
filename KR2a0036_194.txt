@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 194
+#+DATE: 2015-08-24 22:22:32.774992
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百九十四
 <pb:KR2a0036_WYG_194-1a>¶
 欽定四庫全書¶
 　元史卷一百九十四¶
@@ -380,6 +382,7 @@
 　¶
 　¶
 　元史卷一百九十四¶
+#+PROPERTY: JUAN 卷一百九十四考證
 <pb:KR2a0036_WYG_194-22a>¶
 元史卷一百九十四考證¶
 張桓𫝊賊知終不可屈遂刺之　按輟耕録載賊縳桓¶
@@ -387,4 +390,3 @@
 　謂桓曰御史若降餘可免桓弗為動乃至正辛丑八¶
 　月事也𫝊未之詳今附識¶
 趙璉𫝊謚曰忠定　原刻脱此句據洛陽志増¶
-

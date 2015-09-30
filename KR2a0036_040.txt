@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 40
+#+DATE: 2015-08-24 22:22:28.851789
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十
 <pb:KR2a0036_WYG_040-1a>¶
 欽定四庫全書¶
 　元史卷四十¶
@@ -326,6 +328,7 @@
 　¶
 　¶
 　元史卷四十¶
+#+PROPERTY: JUAN 卷四十考證
 <pb:KR2a0036_WYG_040-19a>¶
 元史卷四十考證¶
 至元五年八月丁亥朔十二月癸卯　按五月己未朔¶
@@ -356,4 +359,3 @@
 <pb:KR2a0036_WYG_040-20b>¶
 　即復用上戊矣故順帝是年春祭亦用上戊雖禮官¶
 　有議定而上戊中戊仍參用也¶
-

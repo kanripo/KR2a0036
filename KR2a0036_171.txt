@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 171
+#+DATE: 2015-08-24 22:22:32.169300
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百七十一
 <pb:KR2a0036_WYG_171-1a>¶
 欽定四庫全書¶
 　元史卷一百七十一¶
@@ -182,9 +184,9 @@
 　¶
 　¶
 　元史卷一百七十一¶
+#+PROPERTY: JUAN 卷一百七十一考證
 <pb:KR2a0036_WYG_171-11a>¶
 元史卷一百七十一考證¶
 吳澄𫝊長子文終同知桞州路總管府事京終翰林國¶
 　史院典籍官　按文集載澄有子五人衮補國子生¶
 　禀泗州路臨淮縣尹亶補國子生史畧之謹識¶
-

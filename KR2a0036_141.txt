@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 141
+#+DATE: 2015-08-24 22:22:31.311846
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百四十一
 <pb:KR2a0036_WYG_141-1a>¶
 欽定四庫全書¶
 　元史卷一百四十一¶
@@ -326,10 +328,10 @@
 　¶
 　¶
 　元史卷一百四十一¶
+#+PROPERTY: JUAN 卷一百四十一考證
 <pb:KR2a0036_WYG_141-19a>¶
 元史卷一百四十一考證¶
 台哈布哈傳復拜湖廣行省左丞相　按續綱目台哈¶
 　布哈奪職後尋為河南行省平章與此異¶
 察罕特穆爾傳系出北庭　按王世貞史料云察罕特¶
 　穆爾元别部裔陳邦瞻續記事本末云姓李氏誤¶
-

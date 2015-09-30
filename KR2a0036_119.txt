@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 119
+#+DATE: 2015-08-24 22:22:30.757588
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百十九
 <pb:KR2a0036_WYG_119-1a>¶
 欽定四庫全書¶
 　元史卷一百十九¶
@@ -578,6 +580,7 @@
 　¶
 　¶
 　元史卷一百十九¶
+#+PROPERTY: JUAN 卷一百十九考證
 <pb:KR2a0036_WYG_119-33a>¶
 元史卷一百十九考證¶
 穆呼哩傳北京十提控兵　十原文訛士據本紀改¶
@@ -594,4 +597,3 @@
 　改¶
 伊實特穆爾傳皇孫踐阼　孫原文作帝本紀及類編¶
 　俱作孫按下文皇孫遂即位當作孫字為是今據改¶
-

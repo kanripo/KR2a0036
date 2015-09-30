@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 37
+#+DATE: 2015-08-24 22:22:28.791973
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十七
 <pb:KR2a0036_WYG_037-1a>¶
 欽定四庫全書¶
 　元史卷三十七¶
@@ -110,6 +112,7 @@
 　¶
 　¶
 　元史卷三十七¶
+#+PROPERTY: JUAN 卷三十七考證
 <pb:KR2a0036_WYG_037-7a>¶
 元史卷三十七考證¶
 請立帝以繼大統　按順帝紀及雅克特穆爾𫝊雅克¶
@@ -119,4 +122,3 @@
 想宜知悉　原刻脱宜字不復成句今據永樂大典増¶
 至元四年三月辛酉謚曰冲聖嗣孝廟號寧宗　按順¶
 　帝紀上諡祔廟在三年正月與此異¶
-

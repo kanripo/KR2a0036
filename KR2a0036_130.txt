@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 130
+#+DATE: 2015-08-24 22:22:31.012976
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百三十
 <pb:KR2a0036_WYG_130-1a>¶
 欽定四庫全書¶
 　元史卷一百三十¶
@@ -464,4 +466,3 @@
 <pb:KR2a0036_WYG_130-26b>¶
 約珠傳授集賢學士階正議大夫　按正議原本訛政¶
 　議今據百官志改¶
-

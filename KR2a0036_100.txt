@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 100
+#+DATE: 2015-08-24 22:22:30.333085
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百
 <pb:KR2a0036_WYG_100-1a>¶
 欽定四庫全書¶
 　元史卷一百¶
@@ -632,6 +634,7 @@
 　¶
 　¶
 　元史卷一百¶
+#+PROPERTY: JUAN 卷一百考證
 <pb:KR2a0036_WYG_100-36a>¶
 元史卷一百考證¶
 屯田樞宻院所轄右翼屯田萬户府别置新軍千户所¶
@@ -655,4 +658,3 @@
 　下文改¶
 海北海南道宣慰司都元帥府民屯留二千人與召募¶
 　民户屯種　按民户舊訛民之今改¶
-

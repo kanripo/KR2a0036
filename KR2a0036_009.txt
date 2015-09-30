@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:22:28.188491
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR2a0036_WYG_009-1a>¶
 欽定四庫全書¶
 　元史卷九¶
@@ -488,6 +490,7 @@
 十二錠斷死罪三十二人¶
 　¶
 　元史卷九¶
+#+PROPERTY: JUAN 卷九考證
 <pb:KR2a0036_WYG_009-28a>¶
 元史本紀卷九考證¶
 至元十三年二月庚子宋文武百司各以其職來見¶
@@ -508,4 +511,3 @@
 七月戊申東川都元帥張徳潤攻涪州　案徳潤原本¶
 <pb:KR2a0036_WYG_009-29a>¶
 　訛得潤今據前後卷及明南監本改¶
-

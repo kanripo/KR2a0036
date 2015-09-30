@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 110
+#+DATE: 2015-08-24 22:22:30.568966
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百十
 <pb:KR2a0036_WYG_110-1a>¶
 欽定四庫全書¶
 　元史巻一百十¶
@@ -182,6 +184,7 @@
 　¶
 　¶
 　元史巻一百十¶
+#+PROPERTY: JUAN 卷一百十考證
 <pb:KR2a0036_WYG_110-11a>¶
 元史巻一百十考證¶
 成宗元貞元年太保伊徹察喇　按成宗本紀以中統¶
@@ -206,4 +209,3 @@
 　殊為脱略¶
 㤗定二年太師阿勒坦綽克　按英宗本紀㤗定元年¶
 　阿勒坦綽克己為太師¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:22:28.229847
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR2a0036_WYG_011-1a>¶
 欽定四庫全書¶
 　元史卷干一¶
@@ -416,6 +418,7 @@
 　¶
 　¶
 　元史卷十一¶
+#+PROPERTY: JUAN 卷十一考證
 <pb:KR2a0036_WYG_011-24a>¶
 元史本紀卷十一考證¶
 至元十八年二月乙未皇后鴻吉哩氏崩　案本𫝊作¶
@@ -428,4 +431,3 @@
 <pb:KR2a0036_WYG_011-24b>¶
 　是月癸亥朔至己丑則四十七日以上文丁亥下月¶
 　甲午推之當係己丑之誤今改¶
-

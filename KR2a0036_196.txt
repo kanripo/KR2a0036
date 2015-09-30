@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 196
+#+DATE: 2015-08-24 22:22:32.832381
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百九十六
 <pb:KR2a0036_WYG_196-1a>¶
 欽定四庫全書¶
 　元史卷一百九十六¶
@@ -200,6 +202,7 @@
 　¶
 　¶
 　元史卷一百九十六¶
+#+PROPERTY: JUAN 卷一百九十六考證
 <pb:KR2a0036_WYG_196-12a>¶
 元史卷一百九十六考證¶
 布延布哈𫝊　按宰相表布延布哈至正十八年十月¶
@@ -211,4 +214,3 @@
 　森特穆爾左遷中興總管府判官按本紀時西臺諌¶
 <pb:KR2a0036_WYG_196-12b>¶
 　臣皆斥為各路添設佐貳則庸之為判官亦非正授¶
-

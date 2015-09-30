@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 99
+#+DATE: 2015-08-24 22:22:30.308862
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十九
 <pb:KR2a0036_WYG_099-1a>¶
 欽定四庫全書¶
 　元史卷九十九¶
@@ -650,6 +652,7 @@
 　¶
 　¶
 　元史卷九十九¶
+#+PROPERTY: JUAN 卷九十九考證
 <pb:KR2a0036_WYG_099-37a>¶
 元史卷九十九考證¶
 宗仁衞沒入伊竒喇斯人一百户與今所收䝉古子女¶
@@ -674,4 +677,3 @@
 　軍五千名益之樞宻院臣言世祖命知地理省院官¶
 　共議云云　按原本於五千名下脱去益之及樞宻¶
 　院臣言七字據經世大典增¶
-

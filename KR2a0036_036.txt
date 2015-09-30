@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 元史
-#+DATE: 2015-09-23 09:42:27
-#+PROPERTY: JUAN 36
+#+DATE: 2015-08-24 22:22:28.775500
+#+PROPERTY: ID KR2a0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十六
 <pb:KR2a0036_WYG_036-1a>¶
 欽定四庫全書¶
 　元史卷三十六¶
@@ -200,6 +202,7 @@
 察喇害之於中道¶
 　¶
 　元史卷三十六¶
+#+PROPERTY: JUAN 卷三十六考證
 <pb:KR2a0036_WYG_036-12a>¶
 元史卷三十六考證¶
 監察御史陳思謙言　按思謙疏内尚有請革銓選之¶
@@ -222,4 +225,3 @@
 　云放雅克特古斯于高麗未至伊徹察喇害之于中¶
 　道以詔詞詳載順帝紀中故從刪節也深合紀載之¶
 　體今從之¶
-
