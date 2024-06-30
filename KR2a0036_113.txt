@@ -2,10 +2,66 @@
 #+TITLE: 元史
 #+DATE: 2015-08-24 22:22:30.631182
 #+PROPERTY: ID KR2a0036
-#+PROPERTY: BASEEDITION WYG    
-#+PROPERTY: JUAN 卷一百十三考證
+#+PROPERTY: BASEEDITION WYG  
+#+PROPERTY: JUAN 卷一百十三 
 <pb:KR2a0036_WYG_113-1a>¶
+欽定四庫全書¶
+　元史巻一百十二¶
+　　明翰林學士亞中大夫知制誥兼修國史宋濂等修¶
+　表第六下¶
+　　宰相年表二¶
+順帝¶  
+<pb:KR2a0036_WYG_113-1b>¶
+<pb:KR2a0036_WYG_113-2a>¶
+<pb:KR2a0036_WYG_113-2b>¶
+<pb:KR2a0036_WYG_113-3a>¶
+<pb:KR2a0036_WYG_113-3b>¶
+<pb:KR2a0036_WYG_113-4a>¶
+<pb:KR2a0036_WYG_113-4b>¶
+<pb:KR2a0036_WYG_113-5a>¶
+<pb:KR2a0036_WYG_113-5b>¶
+<pb:KR2a0036_WYG_113-6a>¶
+<pb:KR2a0036_WYG_113-6b>¶
+<pb:KR2a0036_WYG_113-7a>¶
+<pb:KR2a0036_WYG_113-7b>¶
+<pb:KR2a0036_WYG_113-8a>¶
+<pb:KR2a0036_WYG_113-8b>¶
+<pb:KR2a0036_WYG_113-9a>¶
+<pb:KR2a0036_WYG_113-9b>¶
+<pb:KR2a0036_WYG_113-10a>¶
+<pb:KR2a0036_WYG_113-10b>¶
+<pb:KR2a0036_WYG_113-11a>¶
+<pb:KR2a0036_WYG_113-11b>¶
+<pb:KR2a0036_WYG_113-12a>¶
+<pb:KR2a0036_WYG_113-12b>¶
+<pb:KR2a0036_WYG_113-13a>¶
+<pb:KR2a0036_WYG_113-13b>¶
+<pb:KR2a0036_WYG_113-14a>¶
+<pb:KR2a0036_WYG_113-14b>¶
+<pb:KR2a0036_WYG_113-15a>¶
+<pb:KR2a0036_WYG_113-15b>¶
+<pb:KR2a0036_WYG_113-16a>¶
+<pb:KR2a0036_WYG_113-16b>¶
+<pb:KR2a0036_WYG_113-17a>¶
+<pb:KR2a0036_WYG_113-17b>¶
+<pb:KR2a0036_WYG_113-18a>¶
+<pb:KR2a0036_WYG_113-18b>¶
+<pb:KR2a0036_WYG_113-19a>¶
+<pb:KR2a0036_WYG_113-19b>¶
+<pb:KR2a0036_WYG_113-20a>¶
+<pb:KR2a0036_WYG_113-20b>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　元史巻一百十三¶
+#+PROPERTY: JUAN 卷一百十三考證
+<pb:KR2a0036_WYG_113-21a>¶
 元史巻一百十三考證¶
 宰相表順帝至正十二年叅知政事杜秉彛十月添設¶
 　　案順帝本紀杜秉彛是年七月為添設叅知政事¶
 　與此互異¶
+<pb:KR2a0036_WYG_113-21b>¶
