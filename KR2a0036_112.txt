@@ -2,9 +2,95 @@
 #+TITLE: 元史
 #+DATE: 2015-08-24 22:22:30.616063
 #+PROPERTY: ID KR2a0036
-#+PROPERTY: BASEEDITION WYG    
-#+PROPERTY: JUAN 卷一百十二考證
+#+PROPERTY: BASEEDITION WYG      
+#+PROPERTY: JUAN 卷一百十二 
 <pb:KR2a0036_WYG_112-1a>¶
+欽定四庫全書¶
+　元史巻一百十二¶
+　　明翰林學士亞中大夫知制誥兼修國史宋濂等修¶
+　表第六上¶
+　　宰相年表一¶
+宰相者上承天子下統百司治體繫焉元初將相大臣¶
+年月疏濶簡牘未詳者則闕之中統建元以來宰執之¶
+官其拜罷嵗月之可考者列而書之作宰相年表¶
+<pb:KR2a0036_WYG_112-1b>¶
+<pb:KR2a0036_WYG_112-2a>¶
+<pb:KR2a0036_WYG_112-2b>¶
+<pb:KR2a0036_WYG_112-3a>¶
+<pb:KR2a0036_WYG_112-3b>¶
+<pb:KR2a0036_WYG_112-4a>¶
+<pb:KR2a0036_WYG_112-4b>¶
+<pb:KR2a0036_WYG_112-5a>¶
+<pb:KR2a0036_WYG_112-5b>¶
+<pb:KR2a0036_WYG_112-6a>¶
+<pb:KR2a0036_WYG_112-6b>¶
+<pb:KR2a0036_WYG_112-7a>¶
+<pb:KR2a0036_WYG_112-7b>¶
+<pb:KR2a0036_WYG_112-8a>¶
+<pb:KR2a0036_WYG_112-8b>¶
+<pb:KR2a0036_WYG_112-9a>¶
+<pb:KR2a0036_WYG_112-9b>¶
+<pb:KR2a0036_WYG_112-10a>¶
+<pb:KR2a0036_WYG_112-10b>¶
+<pb:KR2a0036_WYG_112-11a>¶
+<pb:KR2a0036_WYG_112-11b>¶
+<pb:KR2a0036_WYG_112-12a>¶
+<pb:KR2a0036_WYG_112-12b>¶
+<pb:KR2a0036_WYG_112-13a>¶
+<pb:KR2a0036_WYG_112-13b>¶
+<pb:KR2a0036_WYG_112-14a>¶
+<pb:KR2a0036_WYG_112-14b>¶
+<pb:KR2a0036_WYG_112-15a>¶
+<pb:KR2a0036_WYG_112-15b>¶
+<pb:KR2a0036_WYG_112-16a>¶
+<pb:KR2a0036_WYG_112-16b>¶
+<pb:KR2a0036_WYG_112-17a>¶
+<pb:KR2a0036_WYG_112-17b>¶
+<pb:KR2a0036_WYG_112-18a>¶
+<pb:KR2a0036_WYG_112-18b>¶
+<pb:KR2a0036_WYG_112-19a>¶
+<pb:KR2a0036_WYG_112-19b>¶
+<pb:KR2a0036_WYG_112-20a>¶
+<pb:KR2a0036_WYG_112-20b>¶
+<pb:KR2a0036_WYG_112-21a>¶
+<pb:KR2a0036_WYG_112-21b>¶
+<pb:KR2a0036_WYG_112-22a>¶
+<pb:KR2a0036_WYG_112-22b>¶
+<pb:KR2a0036_WYG_112-23a>¶
+<pb:KR2a0036_WYG_112-23b>¶
+<pb:KR2a0036_WYG_112-24a>¶
+<pb:KR2a0036_WYG_112-24b>¶
+<pb:KR2a0036_WYG_112-25a>¶
+<pb:KR2a0036_WYG_112-25b>¶
+<pb:KR2a0036_WYG_112-26a>¶
+<pb:KR2a0036_WYG_112-26b>¶
+<pb:KR2a0036_WYG_112-27a>¶
+<pb:KR2a0036_WYG_112-27b>¶
+<pb:KR2a0036_WYG_112-28a>¶
+<pb:KR2a0036_WYG_112-28b>¶
+<pb:KR2a0036_WYG_112-29a>¶
+<pb:KR2a0036_WYG_112-29b>¶
+<pb:KR2a0036_WYG_112-30a>¶
+<pb:KR2a0036_WYG_112-30b>¶
+<pb:KR2a0036_WYG_112-31a>¶
+<pb:KR2a0036_WYG_112-31b>¶
+<pb:KR2a0036_WYG_112-32a>¶
+<pb:KR2a0036_WYG_112-32b>¶
+<pb:KR2a0036_WYG_112-33a>¶
+<pb:KR2a0036_WYG_112-33b>¶
+<pb:KR2a0036_WYG_112-34a>¶
+<pb:KR2a0036_WYG_112-34b>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　元史巻一百十二¶
+#+PROPERTY: JUAN 卷一百十二考證
+<pb:KR2a0036_WYG_112-35a>¶
 元史巻一百十二考證¶
 宰相表世祖中統三年右丞張啓元　案張啓元原本¶
 　止書姓而缺名表中似此者甚多今俱考本紀増入¶
+<pb:KR2a0036_WYG_112-35b>¶
